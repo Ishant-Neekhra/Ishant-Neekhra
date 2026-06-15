@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Ishant Neekhra 👋
 
-<!--
-**Ishant-Neekhra/Ishant-Neekhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year CSE Student
 
-Here are some ideas to get you started:
+🚀 Exploring AI, Startups & Software Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Currently building projects and learning new technologies every day.
+
+---
+
+## 🌱 Currently Learning
+
+- Java
+- Python
+- Git & GitHub
+- AI Fundamentals
+- Software Development
+
+---
+
+## 🚀 Current Projects
+
+### SeMr.Lab
+An AI-powered academic operating system designed to help engineering students learn smarter, prepare efficiently, and discover opportunities.
+
+### Java Ping Pong Game
+A Java Swing-based game built during my Java workshop learning journey and customized for practice.
+
+---
+
+## 🎯 Goals
+
+- Build impactful AI products
+- Contribute to open-source projects
+- Participate in hackathons
+- Grow as a software developer and entrepreneur
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/ishant-neekhra
+- GitHub: github.com/Ishant-Neekhra
+
+---
+
+> Learning. Building. Improving. 🚀
