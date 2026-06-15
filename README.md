@@ -1,10 +1,10 @@
 # Hi, I'm Ishant Neekhra 👋
 
-🎓 First-Year CSE Student
+🎓 Computer Science Engineering Student
 
 🚀 Exploring AI, Startups & Software Development
 
-💡 Currently building projects and learning new technologies every day.
+💡 Building projects, exploring AI, and turning ideas into products.
 
 ---
 
